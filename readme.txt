@@ -48,7 +48,7 @@ Java Script {
         * Function
         * addEvent listner => [DOM method]
         * innerHTML => [show html value in browser]
-        * appendChild [ end of item]
+        * appendChild [ get of item]
         * remove [remove element]
         * add method
         * Array & Array Method
